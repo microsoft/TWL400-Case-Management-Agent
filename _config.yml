@@ -1,0 +1,24 @@
+title: TechWorkshop Customer Management Agent
+description: This lab walks you through building a customer intent agent using Azure OpenAI and Microsoft Graph.
+theme: just-the-docs
+
+aux_links:
+  "TechWorkshop L400: Customer Management Agent": 
+    - "https://github.com/microsoft/TWL400-Case-Management-Agent/"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
