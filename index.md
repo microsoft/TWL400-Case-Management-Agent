@@ -8,7 +8,7 @@ nav_order: 1
 
 ## Where does this fit-in as part of an end-to-end demo?
 
-!IMAGE[image1.png](instructions334641/image1.png)
+![image1.png](/media/image1.png)
 
 ## Use Case / scenario 
 Contoso Coffee is a multinational manufacturer of gourmet coffee and commercial coffee machines. With over 25,000 employees and offices in 18 countries (including the US, Germany, Japan, Brazil, India, and the UK), Their customer service operations are centralized in three global hubs, but support multilingual, multi-channel interactions across time zones.
@@ -25,7 +25,7 @@ Throughout your conversations with them, you were able to identify the following
 - Provide a unified case management experience across channels.
 - Use AI to assist agents with creation, follow-up and closure.
 
-===
+---
 
 ## Learning objectives
 - Deploy the necessary prerequisite for the Case Management agent.
@@ -47,4 +47,5 @@ Estimated time: **90 - 120 minutes**
 
 ## Prerequisites 
 
->[!Alert] You must complete the required steps in the **TechWorkshop L300 on-demand: Sales & Service MDX Setup** lab before you start this lab. This ensures that your environment is configured properly and includes all resources that are required to support this lab.
+{: .warning }
+> You must complete the required steps in the **TechWorkshop L300 on-demand: Sales & Service MDX Setup** lab before you start this lab. This ensures that your environment is configured properly and includes all resources that are required to support this lab.
