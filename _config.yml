@@ -1,9 +1,9 @@
-title: TechWorkshop Customer Management Agent
-description: This lab walks you through building a customer intent agent using Azure OpenAI and Microsoft Graph.
+title: TechWorkshop Case Management Agent
+description: This lab walks you through building a case management agent using Azure OpenAI and Microsoft Graph.
 theme: just-the-docs
 
 aux_links:
-  "TechWorkshop L400: Customer Management Agent": 
+  "TechWorkshop L400: Case Management Agent": 
     - "https://github.com/microsoft/TWL400-Case-Management-Agent/"
 
 callouts_level: quiet # or loud
